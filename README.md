@@ -1,8 +1,8 @@
-**WHEP ** is an AI-powered women's health education platform that provides accessible health information through a question-and-answer interface.
+**WHEP **is an AI-powered women's health education platform that provides accessible health information through a question-and-answer interface.
 
 It uses Retrieval-Augmented Generation (RAG) to retrieve relevant information from a curated health knowledge base and generate responses using a large language model.
 
-Features
+**Features**
 
 Interactive question-and-answer interface.
 
