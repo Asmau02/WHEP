@@ -1,0 +1,1 @@
+Place source-data exports here only if they are needed for the project. The current app reads from the persisted ChromaDB collection, not directly from this folder.
